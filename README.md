@@ -1,1 +1,1 @@
-# WEB UI Easy Post Button
+# Stable Diffusion WEB UI Easy Post Button
